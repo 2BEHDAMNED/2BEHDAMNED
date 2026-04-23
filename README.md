@@ -1,29 +1,16 @@
-<!--
-**2BEHDAMNED/2BEHDAMNED** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 # hiya
 
 the name's grace (or abi). i work on desktop and web related projects and stuff i guess.
-
-<img width="736" height="541" alt="d52621c6e8d1a357b2440fe51efabbf4" src="https://github.com/user-attachments/assets/06cdd23f-491b-4087-a5b0-0f68f2df4364" title="kinrkle"/>
 
 ## about me
 
 - im 17 (at the time of writing this)
 - my pronouns are she/her (🏳️‍⚧️)
 - im absolutely socially awkward LOL
+- im learning c++ (as i go i guess)
+
+### krinkles 
+<img width="736" height="541" alt="d52621c6e8d1a357b2440fe51efabbf4" src="https://github.com/user-attachments/assets/06cdd23f-491b-4087-a5b0-0f68f2df4364" title="kinrkle"/>
 
 <hr>
 
