@@ -17,7 +17,7 @@ the name's grace (or abi). i work on desktop and web related projects and stuff 
 <h2>
   <figure>
     <img src="https://github.com/user-attachments/assets/785f612a-d9c9-47bb-b230-77c605fbde3b" width="32">
-    <figcaption>ANORRL `C++` `Lua` `PHP` </figcaption>
+    <figcaption>ANORRL [C++] [Lua] [PHP] </figcaption>
   </figure>
 </h2>
 
