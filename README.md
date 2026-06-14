@@ -1,6 +1,6 @@
 # hiya
 
-the name's grace (or abi). i work on desktop and web related projects and stuff i guess.
+the name's grace (or abi). i work on stuff i guess.
 
 ## about me
 
