@@ -17,11 +17,9 @@ the name's grace (or abi). i work on desktop and web related projects and stuff 
 <h2>
   <figure>
     <img src="https://github.com/user-attachments/assets/785f612a-d9c9-47bb-b230-77c605fbde3b" width="32">
-    <figcaption>ANORRL [C++] [Lua] [PHP] </figcaption>
+    <figcaption>project .aberdeen</figcaption>
   </figure>
 </h2>
-
-#### [the vandal central](https://github.com/anorrl)
 
 <img width="600" height="300" alt="ANORRLStudioSplash-21" src="https://github.com/user-attachments/assets/50a621b9-bc72-4beb-8c23-cfd8765b704f" />
 
