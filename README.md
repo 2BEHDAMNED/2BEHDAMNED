@@ -2,6 +2,8 @@
 
 the name's grace (or abi). i work on stuff i guess.
 
+<img width="320" height="200" alt="xB9AcI0tFQB2NXjl-ezgif com-video-to-gif-converter" src="https://github.com/user-attachments/assets/89353950-4fc4-4264-8bba-183a7fc849bd" />
+
 ## about me
 
 - im 17 (at the time of writing this)
@@ -21,4 +23,4 @@ the name's grace (or abi). i work on stuff i guess.
 
 quirky game
 
-<img width="320" height="200" alt="xB9AcI0tFQB2NXjl-ezgif com-video-to-gif-converter" src="https://github.com/user-attachments/assets/89353950-4fc4-4264-8bba-183a7fc849bd" />
+
