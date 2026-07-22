@@ -25,7 +25,3 @@ i work on stupid stuff and im mad obsessed with a roach!
     <td>Lua/Luau</td>
   </tr>
 </table>
-
-<hr>
-
-
