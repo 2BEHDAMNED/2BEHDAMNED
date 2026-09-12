@@ -7,6 +7,7 @@ i work on stupid stuff and im mad obsessed with a roach!
 
 ## about me!!!
 
+- i dont use discord!!!
 - im 17 (at the time of writing this)
 - my pronouns are she/her (🏳️‍⚧️)
 - im absolutely socially awkward LOL
